@@ -1,0 +1,34 @@
+VGG16 pre-trained model have 138 million parameters and 528 mb file
+
+- The .h5 file format stores the architecture and weights of a trained machine learning model.
+
+- importing VGG16 class from keras.applications.keras module
+- creates an instance of the VGG16 model.
+By default, it loads the VGG16 model architecture with the weights pre-trained on the ImageNet dataset.
+- model now contains the VGG16 neural network.
+
+- imports the plot_model function from the keras.utils module.
+The plot_model function is used to generate a visual representation of the neural network architecture. 
+
+- Conv1D, Conv2D, and Conv3D use filters to extract features from 1D (e.g., time series), 2D (images), and 3D data (videos) respectively.
+
+- pip install pydot
+- conda install python-graphviz
+
+- this code iterates through all layers in a model, focusing on convolutional layers ('conv' in the name). It then extracts the filter weights and biases for each convolutional layer and prints their shapes, providing insights into the layer's configuration.
+
+- layer number 1 block1_conv1 (3, 3, 3, 64)
+Filter Size: 3 x 3
+Input Channels: 3
+Output Channels: 64
+
+- The code is creating a visualization of 6 filters, with each filter's 3 channels shown in separate subplots. 
+
+- load_img: Loads an image from a file.
+img_to_array: Converts an image to a NumPy array.
+ImageDataGenerator: Provides data augmentation and preprocessing.
+preprocess_input: Preprocesses the input data for the VGG16 model.
+
+- This code visualizes the feature maps of specific layers (indexed by layer_index) for both the original model (model) and the modified model (model3) when given an input image.
+
+- This code loads an image, preprocesses it, and uses a trained model to predict whether the image contains pneumonia or is normal, based on a binary classification task.
