@@ -33,4 +33,36 @@ Each lecture includes the following implementations:
 
 ---
 
+## Getting Started
+
+1. **Clone the Repository**:
+    ```sh
+    git clone https://github.com/qazimsajjad/Deep-Learning-Course.git
+    ```
+2. **Navigate to the Directory**:
+    ```sh
+    cd Deep-Learning-Course
+    ```
+3. **Install Dependencies**:
+    ```sh
+    python => 3.9
+    numpy
+    matplotlib
+    pillow
+    opencv
+    sk-learn
+    torch
+    keras
+    tensorflow
+    ```
 By following this course, you will gain a solid foundation in deep learning and be equipped with the skills to tackle a variety of complex tasks in computer vision, natural language processing, and generative models.
+
+## Usage
+
+Open the Jupyter Notebooks provided in the repository to explore different **Machine Learning** techniques. Each notebook contains detailed explanations, code implementations, and example images to help you understand the concepts.
+
+## Contributor:
+
+**Kaleem Ullah**
+Research Assitant **Digital Image Processing (DIP) Lab** Department of Computer Scinece Islamia College University, Peshawar, Pakistan.
+Remote Research Assistant **Visual Analytics Lab (VIS2KNOW)** Department of Applied AI Sungkyunkwan University, Seoul, South Korea.
