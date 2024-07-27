@@ -16,7 +16,10 @@ This repository is a comprehensive course on **deep learning**, covering essenti
 - **Pretrained Models**: Utilizing pretrained models like VGG, ResNet, Inception, EfficientNet, ConvNext and other SOTA models for various tasks.
 - **Fine-Tuning**: Techniques for fine-tuning pretrained models on specific datasets to improve performance.
 
-## Generative Adversarial Networks (GAN):
+## AutoEncoders and Generative Adversarial Networks (GAN):
+- **Autoencoder Basics**: Introduction to the architecture and purpose of autoencoders.
+- **Variational Autoencoders (VAE)**: Introducing a probabilistic approach to learning latent representations.
+- **Denoising Autoencoders**: Autoencoders designed to remove noise from data, improving the quality of the reconstructed output.
 - **GAN Basics**: Introduction to the architecture of GANs, including the generator and discriminator networks.
 - **Training GANs**: Techniques for training GANs, handling mode collapse, and improving stability.
 - **Applications of GANs**: Image generation, style transfer, and other creative applications.
