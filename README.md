@@ -11,6 +11,11 @@ This repository is a comprehensive course on **deep learning**, covering essenti
 - **Object Detection**: Techniques such as YOLO, SSD, and Faster R-CNN for detecting objects within images.
 - **Object Segmentation**: Methods like U-Net, Mask R-CNN for pixel-level classification and segmentation of images.
 
+## Transfer Learning:
+- **Transfer Learning Basics** : Understanding the concept of transfer learning and its advantages in deep learning.
+- **Pretrained Models**: Utilizing pretrained models like VGG, ResNet, Inception, EfficientNet, ConvNext and other SOTA models for various tasks.
+- **Fine-Tuning**: Techniques for fine-tuning pretrained models on specific datasets to improve performance.
+
 ## Generative Adversarial Networks (GAN):
 - **GAN Basics**: Introduction to the architecture of GANs, including the generator and discriminator networks.
 - **Training GANs**: Techniques for training GANs, handling mode collapse, and improving stability.
