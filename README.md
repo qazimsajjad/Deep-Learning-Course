@@ -72,5 +72,12 @@ Open the Jupyter Notebooks provided in the repository to explore different **Mac
 ## Contributor:
 
 **Kaleem Ullah**
-Research Assitant **Digital Image Processing (DIP) Lab** Department of Computer Scinece Islamia College University, Peshawar, Pakistan.
+Research Assitant **Digital Image Processing (DIP) Lab** Department of Computer Science Islamia College University, Peshawar, Pakistan.
 Remote Research Assistant **Visual Analytics Lab (VIS2KNOW)** Department of Applied AI Sungkyunkwan University, Seoul, South Korea.
+
+**Imran Nawar**
+Research Assistant, Digital Image Processing (DIP) Lab  
+Department of Computer Science  
+Islamia College Peshawar (Public Sector University), Pakistan  
+
+[GitHub](https://github.com/ImranNawar) | [LinkedIn](https://www.linkedin.com/in/imran-nawar) | imran1nawar@gmail.com
